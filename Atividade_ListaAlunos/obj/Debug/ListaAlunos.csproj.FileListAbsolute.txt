@@ -1,0 +1,8 @@
+C:\Users\mgdbe\source\repos\ListaAlunos\bin\Debug\ListaAlunos.exe.config
+C:\Users\mgdbe\source\repos\ListaAlunos\bin\Debug\ListaAlunos.exe
+C:\Users\mgdbe\source\repos\ListaAlunos\bin\Debug\ListaAlunos.pdb
+C:\Users\mgdbe\source\repos\ListaAlunos\obj\Debug\ListaAlunos.csproj.AssemblyReference.cache
+C:\Users\mgdbe\source\repos\ListaAlunos\obj\Debug\ListaAlunos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\source\repos\ListaAlunos\obj\Debug\ListaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\source\repos\ListaAlunos\obj\Debug\ListaAlunos.exe
+C:\Users\mgdbe\source\repos\ListaAlunos\obj\Debug\ListaAlunos.pdb

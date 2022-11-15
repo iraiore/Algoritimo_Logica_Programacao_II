@@ -1,0 +1,8 @@
+C:\Users\mgdbe\source\repos\ListaMercado\bin\Debug\ListaMercado.exe.config
+C:\Users\mgdbe\source\repos\ListaMercado\bin\Debug\ListaMercado.exe
+C:\Users\mgdbe\source\repos\ListaMercado\bin\Debug\ListaMercado.pdb
+C:\Users\mgdbe\source\repos\ListaMercado\obj\Debug\ListaMercado.csproj.AssemblyReference.cache
+C:\Users\mgdbe\source\repos\ListaMercado\obj\Debug\ListaMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\source\repos\ListaMercado\obj\Debug\ListaMercado.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\source\repos\ListaMercado\obj\Debug\ListaMercado.exe
+C:\Users\mgdbe\source\repos\ListaMercado\obj\Debug\ListaMercado.pdb

@@ -1,0 +1,16 @@
+C:\Users\2021202060026\source\repos\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\2021202060026\source\repos\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\2021202060026\source\repos\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\2021202060026\source\repos\Exercicio\obj\Debug\Exercicio.csproj.AssemblyReference.cache
+C:\Users\2021202060026\source\repos\Exercicio\obj\Debug\Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\2021202060026\source\repos\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\2021202060026\source\repos\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\2021202060026\source\repos\Exercicio\obj\Debug\Exercicio.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\Exercicio\obj\Debug\Exercicio.csproj.AssemblyReference.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\Exercicio\obj\Debug\Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\Exercicio\obj\Debug\Exercicio.pdb
